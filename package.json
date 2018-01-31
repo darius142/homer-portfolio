@@ -1,3 +1,7 @@
 {
-  "name": "Volodymyr"
+  "name": "Volodymyr",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1"
+  }
 }
